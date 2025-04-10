@@ -25,5 +25,5 @@ Before running the project, make sure you have the following installed:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/web-scraping-tool.git
+   git clone https://github.com/Asli-nur-t/Dataminig-.git
   
